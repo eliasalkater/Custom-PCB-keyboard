@@ -27,7 +27,7 @@ The PCB is a 2-layer board designed for a 70% mechanical keyboard with
 
 ## PCB layout
 
-<img width="1401" height="721" alt="image" src="https://github.com/user-attachments/assets/94c3b016-8e4b-4b96-a1f2-d91f35624a3f" />
+<img width="1588" height="818" alt="image" src="https://github.com/user-attachments/assets/6a4027b9-d6d3-407c-8bb9-7c3cb116505c" />
 
 
 The final PCB is a split design, but connected in the middle rather than being fully split halves, which limits mobility, but creates an easier design to manufacture but also work around regarding the design of the 3D printed case.
