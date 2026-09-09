@@ -15,3 +15,5 @@ Constraints:
     -Must be possible to manufacture with the tools available to me (JLCPCB)
 
 A successful project is a keyboard where every key registers correctly, the PCB operates reliably, the case can be manufactured without significant post-processing, and the PCB, plate and case fit together without modification.
+
+<img width="1685" height="797" alt="image" src="https://github.com/user-attachments/assets/0dbfed3b-9478-49fe-84c0-e8810d03b66c" />
